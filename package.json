@@ -1,7 +1,12 @@
 {
-  "name": "MDS-cours-open-source",
+  "name": "basic",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iti98/MDS-cours-open-source.git"
+  },
   "author": "Etienne Torgue <etienne98.ch@gmail.com>",
   "license": "MIT"
 }
