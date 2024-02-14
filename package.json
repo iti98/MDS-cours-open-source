@@ -1,0 +1,7 @@
+{
+  "name": "MDS-cours-open-source",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Etienne Torgue <etienne98.ch@gmail.com>",
+  "license": "MIT"
+}
